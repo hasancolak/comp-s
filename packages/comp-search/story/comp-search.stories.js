@@ -1,9 +1,9 @@
 import React from 'react';
 import { Search } from '../src/comp-search';
 
-export default { title: 'Hero Banner' };
+export default { title: 'Search' };
 
-export const primary = () => (
+export const Default = () => (
   <div>
       <Search/>
   </div>
