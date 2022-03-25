@@ -1,6 +1,6 @@
 {
   "name": "@hasancolak/comp-search",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "license": "ISC",
   "main": "dist/comp-search.cjs.js",
