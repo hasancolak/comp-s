@@ -15,7 +15,7 @@ const Search = ({
     <div className="search-box" data-testid="search">
       <div className={classes}>
        <input type="text" placeholder='please enter text' />
-       <Button>Send</Button>
+       <Button variant="primary">Send</Button>
        </div>
     </div>
   );
